@@ -13,7 +13,7 @@ Previously, I completed an internship at [Omega Technical Services](https://omeg
 - 🐦 Twitter: [@kieraamccormick]
 
 ## CV
-For a complete CV, please [click here](link-to-your-cv.pdf).
+📄 [Download CV (PDF)](./Kiera McCormick CV(2).pdf)
 
 ## Publications
 - *Designing an Evaluation Framework for Large Language Models in Astronomy Research*
