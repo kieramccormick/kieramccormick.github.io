@@ -1,15 +1,12 @@
 # Kiera McCormick
 
 ## About Me
-I am a senior at Loyola University Maryland majoring in Electrical and Computer Engineering and am set to graduate in May 2025. I also am involved in the Women's Club Lacrosse team, the Loyola Honors Program, Physics tutoring, the Society of Women Engineers, and more. My research/work focuses on the development of Large Language Models for higher scientific research, human and AI comparsion on Natural Language Processing tasks, advancing open-source science, and more. 
+I am a senior at Loyola University Maryland majoring in Electrical and Computer Engineering and am set to graduate in May 2025. I also am involved in the Women's Club Lacrosse team, the Loyola Honors Program, Physics tutoring, the Society of Women Engineers, and more. My research/work focuses on the development of Large Language Models for higher scientific research, human and AI comparsion on Natural Language Processing tasks, advancing open-source science, and more. Please [view my CV here](./McCormickCV.pdf)
 
 ## Contact Information
 - 📧 Email: [kamccormick@loyola.edu]
 - 🔗 LinkedIn: [www.linkedin.com/in/kiera-mccormick](www.linkedin.com/in/kiera-mccormick)
 - 🐦 Twitter: [@kieraamccormick]
-
-## CV
-[View my CV](./McCormickCV.pdf)
 
 ## Experience
 This past summer, I participated in the [Annual Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/2024-jelinek-summer-workshop-on-speech-and-language-technology/) led by [John Wu](https://jwuphysics.github.io/) at Johns Hopkins University and the Space Telescope Science Institute. The goal of this project was to develop and evaluate Large Language Model chatbots meant to assist with astronomy research. I worked on developing the best possible LLM-powered chatbots to be hosted and deployed in Slack, concentrating on prompt engineering, open/closed source model comparisons, and more. I also worked on evaluating the quality of these chatbot responses by creating a dataset of “Gold Answers” by expert astronomers, and using LLMs to compare and assign relevance scores between the generated response and the “Gold Answer” response.
