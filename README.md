@@ -16,12 +16,14 @@ Previously, I completed an internship at [Omega Technical Services](https://omeg
 📄 [Download CV (PDF)](./Kiera McCormick CV(2).pdf)
 
 ## Publications
-- *Designing an Evaluation Framework for Large Language Models in Astronomy Research*
--    Wu, J. F., Hyk, A., McCormick, K., Ye, C., et al., 2024, *ICML: AI4Science workshop*, submitted, arXiv:2405.20389. 
-- *pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy*
--     Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., McCormick, K., et al., 2024, arXiv:2408.01556. 
-- *Real-World Evaluations of LLMs for Astronomy Research*
--     Hyk, A., McCormick, K., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted. 
++*Designing an Evaluation Framework for Large Language Models in Astronomy Research*
+Wu, J. F., Hyk, A., McCormick, K., Ye, C., et al., 2024, *ICML: AI4Science workshop*, submitted, arXiv:2405.20389. 
+
++*pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy*
+Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., McCormick, K., et al., 2024, arXiv:2408.01556. 
+
++*Real-World Evaluations of LLMs for Astronomy Research*
+Hyk, A., McCormick, K., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted. 
 
 ---
 *Last updated: [November 2024]*
