@@ -13,13 +13,13 @@ This past summer, I participated in the [Annual Frederick Jelinek Memorial Summe
 Previously, I completed an internship at [Omega Technical Services](https://omegatechserv.com/) at the Los Alamos National Laboratory in the summer of 2023. I collaborated with the industrial engineering team, focusing on task scheduling optimization through databases and automation, along with interpreting and drawing insights from given data. I also utilized database coding and conducted data analysis using tools such as MicroStrategy, Excel, SQL, Python, and Confluence, contributing to the creation of metrics and dashboards for effective data visualization. 
 
 ## Publications
--*Designing an Evaluation Framework for Large Language Models in Astronomy Research*
+- *Designing an Evaluation Framework for Large Language Models in Astronomy Research*
 Wu, J. F., Hyk, A., McCormick, K., Ye, C., et al., 2024, *ICML: AI4Science workshop*, submitted, arXiv:2405.20389. 
 
--*pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy*
+- *pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy*
 Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., McCormick, K., et al., 2024, arXiv:2408.01556. 
 
--*Real-World Evaluations of LLMs for Astronomy Research*
+- *Real-World Evaluations of LLMs for Astronomy Research*
 Hyk, A., McCormick, K., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted. 
 
 ---
