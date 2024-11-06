@@ -5,9 +5,9 @@ Hi! My name is Kiera McCormick and I am a senior at Loyola University Maryland m
 
 ## Contact Information
 - 📧 Email: kamccormick [at] loyola [dot] edu
-- 🔗 LinkedIn: [www.linkedin.com/in/kiera-mccormick](www.linkedin.com/in/kiera-mccormick)
-- 🐦 Twitter: @kieraamccormick
-- 🐱 GitHub: [github.com/kieramccormick](github.com/kieramccormick)
+- 🔗 [LinkedIn](www.linkedin.com/in/kiera-mccormick)
+- 🐦 [Twitter](https://x.com/kieraamccormick)
+- 🐱 [GitHub](github.com/kieramccormick)
 
 ## Experience
 This past summer, I participated in the [Annual Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/2024-jelinek-summer-workshop-on-speech-and-language-technology/) led by [John Wu](https://jwuphysics.github.io/) at Johns Hopkins University and the Space Telescope Science Institute. The goal of this project was to develop and evaluate Large Language Model chatbots meant to assist with astronomy research. I worked on developing the best possible LLM-powered chatbots to be hosted and deployed in Slack, concentrating on prompt engineering, open/closed source model comparisons, and more. I also worked on evaluating the quality of these chatbot responses by creating a dataset of “Gold Answers” by expert astronomers, and using LLMs to compare and assign relevance scores between the generated response and the “Gold Answer” response.
