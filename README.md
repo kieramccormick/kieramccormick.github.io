@@ -2,9 +2,7 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
-## Kiera McCormick
-
-## About Me
+## Kiera McCormick -- About Me
 <img src="images/headshot.jpg" width="300" alt="Image description"> Hi! My name is Kiera McCormick and I am a senior at Loyola University Maryland majoring in Electrical and Computer Engineering. I will be graduating with a Bachelor's in Science and Engineering in May 2025. I also am involved in the Women's Club Lacrosse team, the Loyola Honors Program, Physics tutoring, the Society of Women Engineers, and more. My research/work focuses on the development of Large Language Models for higher scientific research, human and AI comparsion on Natural Language Processing tasks, advancing open-source science, and more. [Please view my CV here!](./McCormickCV.pdf)
 
 ## Contact Information
