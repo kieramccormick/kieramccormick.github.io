@@ -3,7 +3,7 @@
 </head>
 
 ## Kiera McCormick
-Hi! My name is Kiera McCormick and I am a senior at Loyola University Maryland majoring in Electrical and Computer Engineering. I will be graduating with a Bachelor's in Science and Engineering in May 2025. I also am involved in the Women's Club Lacrosse team, the Loyola Honors Program, Physics tutoring, the Society of Women Engineers, the Haig Scholars program, and more. My research and work focuses on the development of Large Language Models for higher scientific research, human and AI comparison and cooperation on Natural Language Processing tasks, advancing open-source science, prompt engineering, question-answer chatbot applications, and more. I am interested in exploring the possibilities of machine learning for interdisciplinary fields, and machine translation. [Please view my CV here!](./KieraMcCormickCV.pdf)
+Hi! My name is Kiera McCormick and I am a senior at Loyola University Maryland majoring in Electrical and Computer Engineering. I will be graduating with a Bachelor's degree in Science and Engineering in May 2025. I also am involved in the Women's Club Lacrosse team, the Loyola Honors Program, Physics tutoring, the Society of Women Engineers, the Haig Scholars program, and more. My research and work focuses on the development of Large Language Models for higher scientific research, human and AI comparison and cooperation on Natural Language Processing tasks, advancing open-source science, prompt engineering, question-answer chatbot applications, and more. I am interested in exploring the possibilities of machine learning for interdisciplinary fields, and machine translation. [Please view my CV here!](./KieraMcCormickCV.pdf)
 
 <img src="images/headshot.jpg" width="300" alt="Image description"> 
 
