@@ -30,17 +30,17 @@ Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., McCormick, K., et al., 2
 Hyk, A., McCormick, K., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted.
 
 ## Projects 
-- *Quantum Computer Simulator* (Spring 2022)
+*Quantum Computer Simulator* (Spring 2022)
 
-Engineered a Quantum Computer simulator in Python, leveraging object-oriented programming principles in a semester-long collaborative project. 
+- Engineered a Quantum Computer simulator in Python, leveraging object-oriented programming principles in a semester-long collaborative project. 
 
-- *Solar Panel Mars Rover* (Fall 2023) 
+*Solar Panel Mars Rover* (Fall 2023) 
 
-Collaborated in a four-person team to design and construct an autonomous Mars Rover prototype with innovative solar recharging capabilities. Spearheaded the development of the rover's motion control system using Arduino programming, optimizing mobility and navigation. Engineered a power conversion system to efficiently utilize solar energy for autonomous recharging. Implemented an advanced sun-tracking algorithm for the solar panel, maximizing energy collection in variable conditions. 
+- Collaborated in a four-person team to design and construct an autonomous Mars Rover prototype with innovative solar recharging capabilities. Spearheaded the development of the rover's motion control system using Arduino programming, optimizing mobility and navigation. Engineered a power conversion system to efficiently utilize solar energy for autonomous recharging. Implemented an advanced sun-tracking algorithm for the solar panel, maximizing energy collection in variable conditions. 
 
-- *Hotspot Homing Robot* (Fall 2024 – Present)
+*Hotspot Homing Robot* (Fall 2024 – Present)
 
-Developing an autonomous mobile robot designed to detect and localize rogue access points in office environments, sponsored and mentored by members of the Applied Signal Technology sector at RTX. Creating and integrating wireless signal processing and detection techniques with navigation systems, such as Simultaneous Localization and Mapping, to create a comprehensive security solution. Collaborating with an interdisciplinary team to design a user-friendly interface for real-time threat visualization and reporting.
+- Developing an autonomous mobile robot designed to detect and localize rogue access points in office environments, sponsored and mentored by members of the Applied Signal Technology sector at RTX. Creating and integrating wireless signal processing and detection techniques with navigation systems, such as Simultaneous Localization and Mapping, to create a comprehensive security solution. Collaborating with an interdisciplinary team to design a user-friendly interface for real-time threat visualization and reporting.
 
 ---
 *Last updated: [Jaunary 2025]*
