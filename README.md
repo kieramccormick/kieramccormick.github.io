@@ -2,7 +2,7 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
-Hi! My name is Kiera McCormick and I am a senior at Loyola University Maryland majoring in Electrical and Computer Engineering with a minor in Mathematics. I will be graduating with a Bachelor's degree in Science and Engineering in May 2025. I also am involved in the Women's Club Lacrosse team, the Loyola Honors Program, Physics tutoring and TAing, the Society of Women Engineers, the Haig Scholars program, the Institute of Electrical and Electronics Engineers, and more. My research and work focuses on the development of Large Language Models for higher scientific research, human and AI comparison and cooperation on Natural Language Processing tasks, advancing open-source science, prompt engineering, question-answer chatbot applications, and more. I am interested in exploring the possibilities of machine learning for interdisciplinary fields, and machine translation. [Please view my CV here!](./KieraMcCormickCV.pdf)
+Hi! My name is Kiera McCormick and I am a senior at Loyola University Maryland majoring in Electrical and Computer Engineering with a minor in Mathematics. I will be graduating with a Bachelor's degree in Science and Engineering in May 2025. I also am involved in the Women's Club Lacrosse team, the Loyola Honors Program, Physics tutoring and TAing, the Society of Women Engineers, the Haig Scholars program, the Institute of Electrical and Electronics Engineers, and more. I recently was a finalist for the Choudhury Sarkar-Dey Medal. My research and work focuses on the development of Large Language Models for higher scientific research, human and AI comparison and cooperation on Natural Language Processing tasks, advancing open-source science, prompt engineering, question-answer chatbot applications, and more. I am interested in exploring the possibilities of machine learning for interdisciplinary fields, and machine translation. [Please view my CV here!](./KieraMcCormickCV.pdf)
 
 <img src="images/headshot.jpg" width="300" alt="Image description"> 
 
@@ -20,10 +20,13 @@ Previously, I completed an internship at [Omega Technical Services](https://omeg
 
 ## Publications
 - [*Designing an Evaluation Framework for Large Language Models in Astronomy Research*](https://arxiv.org/abs/2405.20389)
-Wu, J. F., Hyk, A., McCormick, K., Ye, C., et al., 2024, *ICML: AI4Science workshop*, submitted, arXiv:2405.20389. 
+Wu, J. F., Hyk, A., McCormick, K., Ye, C., et al., 2024, *ICML: AI4Science workshop*, submitted, arXiv:2405.20389.
 
 - [*pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy*](https://arxiv.org/abs/2408.01556)
-Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., McCormick, K., et al., 2024, *ApJS 275 38*, arXiv:2408.01556. 
+Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., McCormick, K., et al., 2024, *ApJS 275 38*, arXiv:2408.01556.
+
+- *From Queries to Criteria: Understanding How Astronomers Evaluate LLMs*
+McCormick, K., Hyk, A., Zhong, M., Ciucă, I., et al., 2025, *COLM*, submitted. 
 
 - *Real-World Evaluations of LLMs for Astronomy Research*
 Hyk, A., McCormick, K., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted.
@@ -42,4 +45,4 @@ Hyk, A., McCormick, K., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted
 - Developing an autonomous mobile robot designed to detect and localize rogue access points in office environments, sponsored and mentored by members of the Applied Signal Technology sector at RTX. Creating and integrating wireless signal processing and detection techniques with navigation systems, such as Simultaneous Localization and Mapping, to create a comprehensive security solution. Collaborating with an interdisciplinary team to design a user-friendly interface for real-time threat visualization and reporting.
 
 ---
-*Last updated: [February 2025]*
+*Last updated: [April 2025]*
