@@ -7,7 +7,7 @@ Hi! My name is Kiera McCormick and I am an upcoming Master's student at the John
 <img src="images/headshot.jpg" width="300" alt="Image description"> 
 
 ## Contact Information
-- 📧 Email: kamccormick [at] loyola [dot] edu
+- 📧 Email: kmccor23 [at] jh [dot] edu // kieramccormick6 [at] gmail [dot] com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kiera-mccormick)
 - 🐦 [Twitter](https://x.com/kieraamccormick) 
 - 🐱 [GitHub](https://github.com/kieramccormick)
