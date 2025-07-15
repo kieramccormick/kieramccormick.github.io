@@ -42,7 +42,7 @@ Hyk, A., McCormick, K., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted
 
 - Collaborated in a four-person team to design and construct an autonomous Mars Rover prototype with innovative solar recharging capabilities. Spearheaded the development of the rover's motion control system using Arduino programming, optimizing mobility and navigation. Engineered a power conversion system to efficiently utilize solar energy for autonomous recharging. Implemented an advanced sun-tracking algorithm for the solar panel, maximizing energy collection in variable conditions. 
 
-*Hotspot Homing Robot* (Fall 2024 – May 2025)
+*Hotspot Homing Robot* (September 2024 – May 2025)
 
 - Developed an autonomous mobile robot designed to detect and localize rogue access points in office environments, sponsored and mentored by members of the Applied Signal Technology sector at RTX. Created and integrated wireless signal processing and detection techniques with navigation systems, such as Simultaneous Localization and Mapping, to create a comprehensive security solution. Collaborated with an interdisciplinary team to design a user-friendly interface for real-time threat visualization and reporting.
 
