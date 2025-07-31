@@ -21,14 +21,14 @@ Last summer, I participated in the [Annual Frederick Jelinek Memorial Summer Wor
 Previously, I completed an internship at [Omega Technical Services](https://omegatechserv.com/) at the [Los Alamos National Laboratory](https://www.lanl.gov/) in the summer of 2023. I collaborated with the industrial engineering team, focusing on task scheduling optimization through databases and automation, along with interpreting and drawing insights from given data. I also utilized database coding and conducted data analysis using tools such as MicroStrategy, Excel, SQL, Python, and Confluence, contributing to the creation of metrics and dashboards for effective data visualization. 
 
 ## Publications
+- [*From Queries to Criteria: Understanding How Astronomers Evaluate LLMs*](https://arxiv.org/pdf/2507.15715)
+**McCormick, K.**, Hyk, A., Zhong, M., Ciucă, I., et al., 2025, *COLM*, accepted. 
+
 - [*Designing an Evaluation Framework for Large Language Models in Astronomy Research*](https://arxiv.org/abs/2405.20389)
 Wu, J. F., Hyk, A., **McCormick, K.**, Ye, C., et al., 2024, *ICML: AI4Science workshop*, submitted, arXiv:2405.20389.
 
 - [*pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy*](https://arxiv.org/abs/2408.01556)
 Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., **McCormick, K.**, et al., 2024, *ApJS 275 38*, arXiv:2408.01556.
-
-- *From Queries to Criteria: Understanding How Astronomers Evaluate LLMs*
-**McCormick, K.**, Hyk, A., Zhong, M., Ciucă, I., et al., 2025, *COLM*, accepted. 
 
 - *Real-World Evaluations of LLMs for Astronomy Research*
 **McCormick, K.**, Hyk, A., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted.
