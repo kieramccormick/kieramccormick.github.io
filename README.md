@@ -47,4 +47,4 @@ Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., **McCormick, K.**, et al
 - Developed an autonomous mobile robot designed to detect and localize rogue access points in office environments, sponsored and mentored by members of the Applied Signal Technology sector at RTX. Created and integrated wireless signal processing and detection techniques with navigation systems, such as Simultaneous Localization and Mapping, to create a comprehensive security solution. Collaborated with an interdisciplinary team to design a user-friendly interface for real-time threat visualization and reporting.
 
 ---
-*Last updated: [July 2025]*
+*Last updated: [August 2025]*
