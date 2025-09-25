@@ -24,7 +24,7 @@ Previously, I completed an internship at [Omega Technical Services](https://omeg
 - [*From Queries to Criteria: Understanding How Astronomers Evaluate LLMs*](https://arxiv.org/pdf/2507.15715)
 **McCormick, K.**, Hyk, A., Zhong, M., Ciucă, I., et al., 2025, *COLM*, accepted.
 
-- [*Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries*]
+- *Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries*,
 **McCormick, K.**, Martínez-Galarza, J. R., 2025, *NeurIPs: ML4PS*, accepted.
 
 - [*Designing an Evaluation Framework for Large Language Models in Astronomy Research*](https://arxiv.org/abs/2405.20389)
