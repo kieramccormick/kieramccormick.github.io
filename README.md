@@ -22,16 +22,16 @@ Previously, I completed an internship at [Omega Technical Services](https://omeg
 
 ## Publications
 - [*From Queries to Criteria: Understanding How Astronomers Evaluate LLMs*](https://arxiv.org/pdf/2507.15715)
-**McCormick, K.**, Hyk, A., Zhong, M., Ciucă, I., et al., 2025, *COLM*, accepted. 
+**McCormick, K.**, Hyk, A., Zhong, M., Ciucă, I., et al., 2025, *COLM*, accepted.
+
+- [*Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries*]
+**McCormick, K.**, Martínez-Galarza, J. R., 2025, *NeurIPs: ML4PS*, accepted.
 
 - [*Designing an Evaluation Framework for Large Language Models in Astronomy Research*](https://arxiv.org/abs/2405.20389)
 Wu, J. F., Hyk, A., **McCormick, K.**, Ye, C., et al., 2024, *ICML: AI4Science workshop*, submitted, arXiv:2405.20389.
 
 - [*pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy*](https://arxiv.org/abs/2408.01556)
 Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., **McCormick, K.**, et al., 2024, *ApJS 275 38*, arXiv:2408.01556.
-
-- *Real-World Evaluations of LLMs for Astronomy Research*
-**McCormick, K.**, Hyk, A., Wu, J. F., 2024, *NeurIPS: EvalEval workshop*, submitted.
 
 ## Projects 
 *Quantum Computer Simulator* (Spring 2022)
