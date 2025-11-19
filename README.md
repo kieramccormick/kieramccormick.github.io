@@ -21,11 +21,11 @@ In the summer of 2024, I participated in the [Annual Frederick Jelinek Memorial 
 Previously, I completed an internship at [Omega Technical Services](https://omegatechserv.com/) at the [Los Alamos National Laboratory](https://www.lanl.gov/) in the summer of 2023. I collaborated with the industrial engineering team, focusing on task scheduling optimization through databases and automation, along with interpreting and drawing insights from given data. I also utilized database coding and conducted data analysis using tools such as MicroStrategy, Excel, SQL, Python, and Confluence, contributing to the creation of metrics and dashboards for effective data visualization. 
 
 ## Publications
+- [*Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries*,](https://arxiv.org/pdf/2511.14685)
+**McCormick, K.**, Martínez-Galarza, J. R., 2025, *NeurIPs: ML4PS*, accepted.
+  
 - [*From Queries to Criteria: Understanding How Astronomers Evaluate LLMs*](https://arxiv.org/pdf/2507.15715)
 **McCormick, K.**, Hyk, A., Zhong, M., Ciucă, I., et al., 2025, *COLM*, accepted.
-
-- *Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries*,
-**McCormick, K.**, Martínez-Galarza, J. R., 2025, *NeurIPs: ML4PS*, accepted.
 
 - [*Designing an Evaluation Framework for Large Language Models in Astronomy Research*](https://arxiv.org/abs/2405.20389)
 Wu, J. F., Hyk, A., **McCormick, K.**, Ye, C., et al., 2024, *ICML: AI4Science workshop*, submitted, arXiv:2405.20389.
@@ -47,4 +47,4 @@ Iyer, K. G., Yunus, M., O’Neill, C., Ye, C., Hyk, A., **McCormick, K.**, et al
 - Developed an autonomous mobile robot designed to detect and localize rogue access points in office environments, sponsored and mentored by members of the Applied Signal Technology sector at RTX. Created and integrated wireless signal processing and detection techniques with navigation systems, such as Simultaneous Localization and Mapping, to create a comprehensive security solution. Collaborated with an interdisciplinary team to design a user-friendly interface for real-time threat visualization and reporting.
 
 ---
-*Last updated: [October 2025]*
+*Last updated: [November 2025]*
