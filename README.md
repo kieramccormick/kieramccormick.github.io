@@ -21,7 +21,7 @@ In the summer of 2024, I participated in the [Annual Frederick Jelinek Memorial 
 Previously, I completed an internship at [Omega Technical Services](https://omegatechserv.com/) at the [Los Alamos National Laboratory](https://www.lanl.gov/) in the summer of 2023. I collaborated with the industrial engineering team, focusing on task scheduling optimization through databases and automation, along with interpreting and drawing insights from given data. I also utilized database coding and conducted data analysis using tools such as MicroStrategy, Excel, SQL, Python, and Confluence, contributing to the creation of metrics and dashboards for effective data visualization. 
 
 ## Publications
-- [*Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries*,](https://arxiv.org/pdf/2511.14685)
+- [*Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries*](https://arxiv.org/pdf/2511.14685)
 **McCormick, K.**, Martínez-Galarza, J. R., 2025, *NeurIPs: ML4PS*, accepted.
   
 - [*From Queries to Criteria: Understanding How Astronomers Evaluate LLMs*](https://arxiv.org/pdf/2507.15715)
