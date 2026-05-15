@@ -60,6 +60,17 @@
         <section id="experience" class="section section-alt">
             <div class="container">
                 <h2 class="section-title">Experience</h2>
+
+                <div class="experience-item">
+                    <div class="exp-header">
+                        <div>
+                            <h3>Research Assistant</h3>
+                            <p class="company">AI for Forensics (AI4F) – JHU / NIST</p>
+                        </div>
+                        <span class="date">January 2026 – Present</span>
+                    </div>
+                    <p class="description">Conducting research at the intersection of AI and forensic science in collaboration with NIST. Work includes surveying AI tools across forensics-adjacent domains, building structured analyses of AI adoption patterns, and contributing to stakeholder documentation on responsible AI integration in forensic laboratories.</p>
+                </div>
                 
                 <div class="experience-item">
                     <div class="exp-header">
@@ -132,6 +143,24 @@
                 
                 <div class="projects-grid">
                     <div class="project-card">
+                        <h3>Testing Social Reasoning in LLMs</h3>
+                        <span class="project-date">Spring 2026</span>
+                        <p>Designed and evaluated a benchmark of 40 original scenarios spanning Theory of Mind, Pragmatics, and Chain-of-Thought social reasoning across 12 state-of-the-art LLMs (4B–671B parameters). Administered a human baseline survey (n=12) to anchor model performance against human-level social reasoning. Found that ToM and Pragmatics competence are dissociated at the model level, and that the dominant failure mode is a collapse of epistemic boundaries between observer and character knowledge.</p>
+                    </div>
+
+                    <div class="project-card">
+                        <h3>Regional Variation in ChatGPT Use Across U.S. States</h3>
+                        <span class="project-date">Spring 2026</span>
+                        <p>Applied BERTopic to 68,668 first-turn English user prompts from the WildChat corpus to study geographic and socioeconomic variation in ChatGPT use across 36 U.S. states. Found that all 76 raw topics vary significantly across states, and that higher education and income correlate with specialized creative uses while generic image-generation requests are more prevalent in lower-education and lower-income states.</p>
+                    </div>
+
+                    <div class="project-card">
+                        <h3>A2CPS Discovery Agent</h3>
+                        <span class="project-date">Spring 2026</span>
+                        <p>Built an AI-powered natural language interface for querying the A2CPS biomedical dataset, translating plain English questions into read-only SQL and surfacing relevant documentation using retrieval-augmented generation. Developed with React, Hono, and the Anthropic Claude API.</p>
+                    </div>
+
+                    <div class="project-card">
                         <h3>Hotspot Homing Robot</h3>
                         <span class="project-date">Sept 2024 – May 2025</span>
                         <p>Autonomous mobile robot for detecting and localizing rogue access points in office environments. Integrated wireless signal processing with SLAM navigation systems. Sponsored by RTX.</p>
@@ -201,7 +230,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 Kiera McCormick. Last updated: January 2026</p>
+            <p>&copy; 2025 Kiera McCormick. Last updated: May 2026</p>
         </div>
     </footer>
 
@@ -221,3 +250,14 @@
         });
 
         // Add shadow to navbar on scroll
+        window.addEventListener('scroll', function() {
+            const navbar = document.querySelector('.navbar');
+            if (window.scrollY > 10) {
+                navbar.style.boxShadow = '0 2px 20px rgba(0,0,0,0.1)';
+            } else {
+                navbar.style.boxShadow = 'none';
+            }
+        });
+    </script>
+</body>
+</html>
